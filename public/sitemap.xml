@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.danieldway.com/projects/task-timer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danieldway.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danieldway.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danieldway.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danieldway.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danieldway.com/tags/pwa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danieldway.com/tags/react/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danieldway.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danieldway.com/tags/typescript/</loc>
+  </url>
+  
+</urlset>
