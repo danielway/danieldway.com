@@ -7,4 +7,4 @@ I'm a full-stack software developer and student pursuing a B.S. in Software Engi
 
 Professionally, I work with .NET Core and Angular designing and implementing internal and customer-facing web applications. In my own time I explore a variety of technologies and interests.
 
-I am reachable at [projects@danieldway.com](mailto:projects@danieldway.com) and [here](/public.key) is my key.
+I am reachable at [projects@danieldway.com](mailto:projects@danieldway.com) and [here](/A56BB72EA65C7B37.asc) is my key.
